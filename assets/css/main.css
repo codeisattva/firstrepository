@@ -1960,7 +1960,7 @@ input, select, textarea {
 		}
 
 		.icon.featured {
-			color: #EA8A95;
+			color: #2e2e2e;
 			display: block;
 			margin: 0 0 1.5em 0;
 			cursor: default;
@@ -2462,15 +2462,15 @@ input, select, textarea {
     color: #fff;
     text-align: center;
     position: relative;
-    font-size: 17px;
+    font-size: 18px;
     padding: 10px;
-    background: rgba(0, 0, 0, 0.8);
+    background: rgb(59, 157, 197);
     margin: 20px 0 0 0
 }
 .view p {
     font-family: Georgia, serif;
     font-style: italic;
-    font-size: 12px;
+    font-size: 18px;
     position: relative;
     color: #fff;
     padding: 10px 20px 20px;
@@ -2494,7 +2494,7 @@ input, select, textarea {
 }
 .view-first .mask {
     opacity: 0;
-    background-color: rgba(219,127,8, 0.7); 
+    /*background-color: rgba(219,127,8, 0.7); */
     transition: all 0.4s ease-in-out;
 }
 .view-first h2 {
